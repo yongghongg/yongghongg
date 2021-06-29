@@ -1,5 +1,5 @@
 ## About Me 🙋‍♂️
-I am a software engineer currently based in Tokyo 🇯🇵
+Hi there, I am a software engineer currently based in Tokyo 🇯🇵.
 - 💼 Working on multiple projects using React and Nodejs
 - 💙 Interested in algorithmic trading using Python
 - 🔥 Passionate about machine learning technology
