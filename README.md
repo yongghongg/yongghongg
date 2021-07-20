@@ -12,23 +12,23 @@ Hi there, I am a self-taught newbie software engineer currently based in Tokyo �
 
 ## Skills 🔬
 ### Frontend
-<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="left" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" alt="react" src="https://img.shields.io/badge/react.js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<a href="#"><img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+<a href="#"><img align="left" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="#"><img align="left" alt="nodejs" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="#"><img align="left" alt="react" src="https://img.shields.io/badge/react.js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
 
 <br>
 
 ### Backend
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<a href="#"><img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></a>
+<a href="#"><img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="#"><img align="left" alt="nodejs" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 
 <br>
 <br>
 
 ## Certifications 🔖
-<img alt="az-900" src="/img/microsoft-certified-azure-fundamentals-new.png" width="96"/>
+<a href=""><img alt="az-900" src="/img/microsoft-certified-azure-fundamentals-new.png" width="96"/></a>
 
 ## Top Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongghongg&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
