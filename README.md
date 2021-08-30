@@ -35,9 +35,9 @@ Hi there, I am a self-taught newbie software engineer currently based in Tokyo ð
 
 ## Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Guide to Plotly for Plotting Financial Chart](https://python.plainenglish.io/a-simple-guide-to-plotly-for-plotting-financial-chart-54986c996682?source=rss-1a7b4287ab33------2)
 - [How to Detect Support & Resistance Levels and Breakout using Python](https://medium.datadriveninvestor.com/how-to-detect-support-resistance-levels-and-breakout-using-python-f8b5dac42f21?source=rss-1a7b4287ab33------2)
 - [Implementing the Most Popular Indicator on TradingView Using Python](https://medium.com/geekculture/implementing-the-most-popular-indicator-on-tradingview-using-python-239d579412ab?source=rss-1a7b4287ab33------2)
 - [Automate your stock screening using Python](https://levelup.gitconnected.com/automate-your-stock-screening-using-python-9107dda724c3?source=rss-1a7b4287ab33------2)
 - [Resources that Helped Me Land a Developer Job Without a CS Degree](https://levelup.gitconnected.com/resources-that-helped-me-land-a-developer-job-without-a-cs-degree-d5c8a011fa90?source=rss-1a7b4287ab33------2)
-- [Make your simple Japanese dictionary and quiz app on Google Sheets](https://yonghongtan.medium.com/make-your-simple-japanese-dictionary-and-quiz-app-on-google-sheets-ed5dd2e84342?source=rss-1a7b4287ab33------2)
 <!-- BLOG-POST-LIST:END -->
