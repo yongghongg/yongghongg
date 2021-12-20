@@ -29,6 +29,7 @@ Hi there, I am a self-taught newbie software engineer currently based in Tokyo ð
 
 ## Certifications ðŸ”–
 <a href=""><img alt="az-900" src="/img/microsoft-certified-azure-fundamentals-new.png" width="96"/></a>
+<a href=""><img alt="az-204" src="/img/azure-developer-associate.png" width="96"/></a>
 
 ## Top Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongghongg&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
