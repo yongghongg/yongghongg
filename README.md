@@ -37,9 +37,9 @@ Hi there, I am a self-taught newbie software engineer currently based in Tokyo �
 
 ## Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Chrome Extensions for Medium I Wish I Knew Earlier](https://medium.com/writers-blokke/5-chrome-extensions-for-medium-i-wish-i-knew-earlier-8357040dcd1c?source=rss-1a7b4287ab33------2)
 - [Download list of ALL stock symbols using this Python package](https://medium.datadriveninvestor.com/download-list-of-all-stock-symbols-using-this-python-package-12937073b25?source=rss-1a7b4287ab33------2)
 - [FAQ about Pandas DataFrame](https://python.plainenglish.io/faq-about-pandas-dataframe-cea03b041197?source=rss-1a7b4287ab33------2)
 - [Backtesting All Candlestick Patterns: Which is the Best?](https://medium.com/the-investors-handbook/backtesting-all-candlestick-patterns-which-is-the-best-72a0ea8afcb4?source=rss-1a7b4287ab33------2)
 - [A Notion Trading Journal Template](https://medium.datadriveninvestor.com/a-notion-trading-journal-template-eb01706345f9?source=rss-1a7b4287ab33------2)
-- [The Supertrend — Implementing, Screening &amp; Backtesting in Python](https://medium.datadriveninvestor.com/the-supertrend-implementing-screening-backtesting-in-python-70e8f88f383d?source=rss-1a7b4287ab33------2)
 <!-- BLOG-POST-LIST:END -->
