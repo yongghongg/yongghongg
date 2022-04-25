@@ -37,9 +37,9 @@ Hi there, I am a self-taught newbie software engineer currently based in Tokyo ð
 
 ## Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate Web Scraping and Updating Database with Python, MongoDB, and GitHub Actions](https://python.plainenglish.io/automate-web-scraping-and-updating-database-with-python-mongodb-and-github-actions-c418c674c15b?source=rss-1a7b4287ab33------2)
 - [5 Chrome Extensions for Medium I Wish I Knew Earlier](https://medium.com/writers-blokke/5-chrome-extensions-for-medium-i-wish-i-knew-earlier-8357040dcd1c?source=rss-1a7b4287ab33------2)
 - [Download list of ALL stock symbols using this Python package](https://medium.datadriveninvestor.com/download-list-of-all-stock-symbols-using-this-python-package-12937073b25?source=rss-1a7b4287ab33------2)
 - [FAQ about Pandas DataFrame](https://python.plainenglish.io/faq-about-pandas-dataframe-cea03b041197?source=rss-1a7b4287ab33------2)
 - [Backtesting All Candlestick Patterns: Which is the Best?](https://medium.com/the-investors-handbook/backtesting-all-candlestick-patterns-which-is-the-best-72a0ea8afcb4?source=rss-1a7b4287ab33------2)
-- [A Notion Trading Journal Template](https://medium.datadriveninvestor.com/a-notion-trading-journal-template-eb01706345f9?source=rss-1a7b4287ab33------2)
 <!-- BLOG-POST-LIST:END -->
