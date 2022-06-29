@@ -1,7 +1,7 @@
 ## About Me 🙋‍♂️
-Hi there, I am a full-stack capable frontend developer specializing in JavaScript frameworks including React and Angular. 
-I am also comfortable working with backend technology using Node.js, C#, MongoDB, as well as SQL database.
-Also experienced in data analysis using Python. 
+Hi there, I am a full-stack capable frontend developer specializing in JavaScript frameworks including React and Angular. <br>
+I am also comfortable working with backend technology using Node.js, C#, MongoDB, as well as SQL database. <br>
+Also experienced in data analysis using Python. <br>
 Fluent in 4 languages, a good communicator and a writer on Medium with more than 100k views.
 
 ## Connect with me 🤝
