@@ -1,8 +1,8 @@
 ## About Me 🙋‍♂️
-Hi there, I am a self-taught newbie software engineer currently based in Tokyo 🇯🇵.
-- 💼 Working on multiple projects using React and Nodejs
-- 💙 Interested in algorithmic trading using Python
-- 🔥 Passionate about machine learning technology
+Hi there, I am a full-stack capable frontend developer specializing in JavaScript frameworks including React and Angular. 
+I am also comfortable working with backend technology using Node.js, C#, MongoDB, as well as SQL database.
+Also experienced in data analysis using Python. 
+Fluent in 4 languages, a good communicator and a writer on Medium with more than 100k views.
 
 ## Connect with me 🤝
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yonghong-tan/)
